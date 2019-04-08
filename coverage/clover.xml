@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1554718386545" clover="3.2.0">
+  <project timestamp="1554718386545" name="All files">
+    <metrics statements="18" coveredstatements="13" conditionals="10" coveredconditionals="8" methods="9" coveredmethods="6" elements="37" coveredelements="27" complexity="0" loc="18" ncloc="18" packages="1" files="1" classes="1"/>
+    <file name="helpers.js" path="C:\Users\Pavol Karas\Desktop\week14_live_lectures\testing_I\helpers\helpers.js">
+      <metrics statements="18" coveredstatements="13" conditionals="10" coveredconditionals="8" methods="9" coveredmethods="6"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="10" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="14" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="15" count="4" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="30" count="4" type="stmt"/>
+      <line num="31" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="34" count="2" type="stmt"/>
+      <line num="40" count="0" type="stmt"/>
+      <line num="41" count="0" type="stmt"/>
+      <line num="42" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="43" count="0" type="stmt"/>
+      <line num="45" count="0" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
